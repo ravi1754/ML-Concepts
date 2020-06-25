@@ -12,8 +12,8 @@
 6. What is curse of dimensionality? <br>
 7. What is **condition number of matrix** and how is it useful? <br>
 8. Explain **Singular Value Decomposition (SVD)**? <br>
-9. Explain PCA and what is the most common application of it? <br>
-10. What are eigen vectors? Why are they so important?
+9. Explain **PCA** and what is the most common application of it? <br>
+10. What are **Eigen Vectors**? Why are they so important?
 11. What is **covariance matrix** ?<br>
 12. What is **class conditional independence** ? <br>
 13. How does **Naive Bayes** algorithm work?<br>
