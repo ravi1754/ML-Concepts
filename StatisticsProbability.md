@@ -9,4 +9,13 @@
 3. Given X1, X2 , X3,..... Xn are random variable which follow U[0,1] ( uniform distribution ). Find probability distribution function of max(X1, X2 , X3,..... Xn) ?<br>
 4. If a person throws a dart onto a circular board of radius 'S' and the probability of dart hitting any point on the board follows uniform distribution, what is the expected distance from the center of the board?<br>
 5. A coin has probability of **p** to get HEAD. The coin will be  tossed continuously  till 5 consecutive heads are landed. What is the expected number of times the coin needs to be tossed?<br>
+6. For a fair coin, which of the following outcomes is more likely ?<br>
+   a.HHHT<br>
+   b.HTHT<br>
+   c.HHHH<br>
+   d.All outcomes are equally likely<br>
+7. Given any distribution,how can you sample a number between 0 and 1 with approximately equal probability ?<br>
+8. Explain the difference between Maximum a posteriori estimate and maximum likelihood estimate ? <br>
+
+
 
