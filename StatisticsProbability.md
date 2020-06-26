@@ -16,6 +16,8 @@
    d.All outcomes are equally likely<br>
 7. Given any distribution,how can you sample a number between 0 and 1 with approximately equal probability ?<br>
 8. Explain the difference between Maximum a posteriori estimate and maximum likelihood estimate ? <br>
+9. The average advertising expenditure in the computer industry is found to be $15,000,000 annually, with a standard deviation of $3,000,000. In a sample of 36 companies, what is the probability that the sample mean will exceed 16.5 million?<br>
+14. 50% of all people who receive a first interview receive a second interview. 95% of people that got a second interview felt they had a good first interview.75% of people that DID NOT get a second interview felt they had a good first interview. If you feel that you had a good first interview, what is the probability you will receive a second interview?<br>
 
 
 
