@@ -13,18 +13,19 @@
 7. What is **condition number of matrix** and how is it useful? <br>
 8. Explain **Singular Value Decomposition (SVD)**? <br>
 9. Explain **PCA** and what is the most common application of it? <br>
-10. What are **Eigen Vectors**? Why are they so important?
-11. What is **covariance matrix** ?<br>
-12. What is **class conditional independence** ? <br>
-13. How does **Naive Bayes** algorithm work?<br>
-14. What are the assumptions in **Naive Bayes** algorithm?<br>
-15. What is **Central Limit Theorem(CLT)**?<br>
-16. What is **Law of Large Numbers**?<br>
-17. The average advertising expenditure in the computer industry is found to be $15,000,000 annually, with a standard deviation of $3,000,000. In a sample of 36 companies, what is the probability that the sample mean will exceed 16.5 million?<br>
-18. 50% of all people who receive a first interview receive a second interview. 95% of people that got a second interview felt they had a good first interview.75% of people that DID NOT get a second interview felt they had a good first interview. If you feel that you had a good first interview, what is the probability you will receive a second interview?<br>
-19. What is overfitting and underfitting? <br>
-20. How to choose lambda for **regularization?**<br>
-21. What is difference between L1 and L2 regularization?<br>
+10. How do you choose the number of features in **PCA**? <br>
+11. What are **Eigen Vectors**? Why are they so important?
+12. What is **covariance matrix** ?<br>
+13. What is **class conditional independence** ? <br>
+14. How does **Naive Bayes** algorithm work?<br>
+15. What are the assumptions in **Naive Bayes** algorithm?<br>
+16. What is **Central Limit Theorem(CLT)**?<br>
+17. What is **Law of Large Numbers**?<br>
+18. The average advertising expenditure in the computer industry is found to be $15,000,000 annually, with a standard deviation of $3,000,000. In a sample of 36 companies, what is the probability that the sample mean will exceed 16.5 million?<br>
+19. 50% of all people who receive a first interview receive a second interview. 95% of people that got a second interview felt they had a good first interview.75% of people that DID NOT get a second interview felt they had a good first interview. If you feel that you had a good first interview, what is the probability you will receive a second interview?<br>
+20. What is overfitting and underfitting? <br>
+21. How to choose lambda for **regularization?**<br>
+22. What is difference between **L1** and **L2** regularization?<br>
 
 
 
