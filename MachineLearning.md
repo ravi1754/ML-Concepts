@@ -13,6 +13,13 @@
 13. What is overfitting and underfitting? <br>
 14. How to choose lambda for **regularization?**<br>
 15. What is difference between **L1** and **L2** regularization?<br>
+16. If a model is performing well on train data and performing poorly on validation data, what would try to do ?<br>
+17. How do you arrive at the coefficients of **Linear Regression** ?<br>
+18. What are the assumptions in **Linear Regression**?<br>
+19. How to deal with **multi collinearity** in **Linear Regression**?<br>
+20. How to deal with **categorical variables** in features ?<br>
+
+
 
 
 
